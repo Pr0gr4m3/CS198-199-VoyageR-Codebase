@@ -16,7 +16,6 @@ A quadtree-based navigation system performing predictive, wave-aware A* planning
 - numpy
 - matplotlib
 - netCDF4
-Optional: h5netcdf, h5py, xarray
 
 Install:
 ```bash

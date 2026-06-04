@@ -1,0 +1,106 @@
+# 100 Random Test Cases (min distance 180)
+# Uniform random sampling from passable_pixels_timestep1.txt
+# Random seed: 42
+# Total passable pixels: 52593
+# Format: start_pos -> goal_pos (distance)
+#
+ 1. start_pos = (195,   8)  goal_pos = (186, 220)  dist = 212.2
+ 2. start_pos = (231,  65)  goal_pos = ( 49,  43)  dist = 183.3
+ 3. start_pos = ( 45, 219)  goal_pos = ( 26,  33)  dist = 187.0
+ 4. start_pos = ( 69, 226)  goal_pos = (163,  48)  dist = 201.3
+ 5. start_pos = (233, 206)  goal_pos = ( 40, 124)  dist = 209.7
+ 6. start_pos = (216, 177)  goal_pos = ( 50,  77)  dist = 193.8
+ 7. start_pos = ( 36,  15)  goal_pos = ( 25, 217)  dist = 202.3
+ 8. start_pos = ( 28, 209)  goal_pos = (143,  23)  dist = 218.7
+ 9. start_pos = (208,  15)  goal_pos = (230, 194)  dist = 180.3
+10. start_pos = ( 56,  67)  goal_pos = (199, 230)  dist = 216.8
+11. start_pos = (215,  77)  goal_pos = ( 46, 208)  dist = 213.8
+12. start_pos = (228, 201)  goal_pos = (  6, 191)  dist = 222.2
+13. start_pos = ( 50, 187)  goal_pos = (192,  51)  dist = 196.6
+14. start_pos = ( 24, 157)  goal_pos = (226, 216)  dist = 210.4
+15. start_pos = (236,  64)  goal_pos = ( 58, 202)  dist = 225.2
+16. start_pos = (210,  94)  goal_pos = ( 83, 229)  dist = 185.3
+17. start_pos = (184, 231)  goal_pos = ( 52,  19)  dist = 249.7
+18. start_pos = ( 97, 213)  goal_pos = (235,  91)  dist = 184.2
+19. start_pos = (203, 221)  goal_pos = ( 30, 165)  dist = 181.8
+20. start_pos = (216,  29)  goal_pos = ( 75, 225)  dist = 241.4
+21. start_pos = (184,  48)  goal_pos = (227, 236)  dist = 192.9
+22. start_pos = (230, 200)  goal_pos = ( 10, 124)  dist = 232.8
+23. start_pos = (164, 162)  goal_pos = ( 58,   4)  dist = 190.3
+24. start_pos = (205,  77)  goal_pos = (101, 229)  dist = 184.2
+25. start_pos = (189, 214)  goal_pos = (  0, 214)  dist = 189.0
+26. start_pos = ( 70, 227)  goal_pos = (203,  53)  dist = 219.0
+27. start_pos = (110, 227)  goal_pos = ( 46,  49)  dist = 189.2
+28. start_pos = (  1, 156)  goal_pos = ( 97,   0)  dist = 183.2
+29. start_pos = (236, 166)  goal_pos = (109,  26)  dist = 189.0
+30. start_pos = (105,  28)  goal_pos = (194, 217)  dist = 208.9
+31. start_pos = (137, 228)  goal_pos = (110,  39)  dist = 190.9
+32. start_pos = (237,  23)  goal_pos = ( 45, 210)  dist = 268.0
+33. start_pos = (228,  23)  goal_pos = ( 44, 151)  dist = 224.1
+34. start_pos = (236,  69)  goal_pos = ( 49,  81)  dist = 187.4
+35. start_pos = (222, 216)  goal_pos = (156,  18)  dist = 208.7
+36. start_pos = (116, 190)  goal_pos = (238,  31)  dist = 200.4
+37. start_pos = (196, 239)  goal_pos = (233,  34)  dist = 208.3
+38. start_pos = (233, 123)  goal_pos = ( 38,  55)  dist = 206.5
+39. start_pos = ( 56, 192)  goal_pos = (233, 158)  dist = 180.2
+40. start_pos = (237,  19)  goal_pos = (133, 170)  dist = 183.3
+41. start_pos = (196,  20)  goal_pos = (197, 222)  dist = 202.0
+42. start_pos = ( 29, 175)  goal_pos = (203,  13)  dist = 237.7
+43. start_pos = (205,  40)  goal_pos = ( 31, 198)  dist = 235.0
+44. start_pos = ( 10, 224)  goal_pos = (132,  24)  dist = 234.3
+45. start_pos = (206,   2)  goal_pos = (235, 196)  dist = 196.2
+46. start_pos = ( 55, 203)  goal_pos = (237, 186)  dist = 182.8
+47. start_pos = ( 68, 230)  goal_pos = (201,  40)  dist = 231.9
+48. start_pos = ( 48,  49)  goal_pos = (165, 220)  dist = 207.2
+49. start_pos = (  0, 165)  goal_pos = (142,   3)  dist = 215.4
+50. start_pos = ( 52, 126)  goal_pos = (221,  39)  dist = 190.1
+51. start_pos = ( 28,  73)  goal_pos = (174, 196)  dist = 190.9
+52. start_pos = (  6, 233)  goal_pos = (174, 164)  dist = 181.6
+53. start_pos = (150, 239)  goal_pos = ( 98,  53)  dist = 193.1
+54. start_pos = ( 35, 121)  goal_pos = (180,   8)  dist = 183.8
+55. start_pos = ( 53,  97)  goal_pos = (189, 233)  dist = 192.3
+56. start_pos = (133,  48)  goal_pos = (114, 235)  dist = 188.0
+57. start_pos = ( 10, 208)  goal_pos = (156,  34)  dist = 227.1
+58. start_pos = (216, 230)  goal_pos = (111,  81)  dist = 182.3
+59. start_pos = (234, 102)  goal_pos = ( 25, 189)  dist = 226.4
+60. start_pos = (155, 195)  goal_pos = ( 36,  39)  dist = 196.2
+61. start_pos = (  5, 214)  goal_pos = (170,  87)  dist = 208.2
+62. start_pos = (171, 196)  goal_pos = (  0, 120)  dist = 187.1
+63. start_pos = (  0, 163)  goal_pos = (210,  39)  dist = 243.9
+64. start_pos = ( 59, 126)  goal_pos = (209, 234)  dist = 184.8
+65. start_pos = (236, 192)  goal_pos = ( 52,  94)  dist = 208.5
+66. start_pos = (202, 223)  goal_pos = ( 31,  69)  dist = 230.1
+67. start_pos = ( 94, 229)  goal_pos = (150,  24)  dist = 212.5
+68. start_pos = ( 32,  58)  goal_pos = (153, 213)  dist = 196.6
+69. start_pos = ( 45,   2)  goal_pos = (191, 223)  dist = 264.9
+70. start_pos = (208, 229)  goal_pos = ( 55,  34)  dist = 247.9
+71. start_pos = (223, 163)  goal_pos = (  6,  73)  dist = 234.9
+72. start_pos = (125,  41)  goal_pos = (169, 220)  dist = 203.8
+73. start_pos = ( 41, 225)  goal_pos = (227, 129)  dist = 209.3
+74. start_pos = ( 14, 161)  goal_pos = (231, 130)  dist = 219.2
+75. start_pos = (179,  75)  goal_pos = (  4, 224)  dist = 229.8
+76. start_pos = (239, 171)  goal_pos = (  9, 206)  dist = 232.6
+77. start_pos = (216,   6)  goal_pos = (110, 228)  dist = 246.0
+78. start_pos = (215, 142)  goal_pos = ( 62,  10)  dist = 202.1
+79. start_pos = (112, 195)  goal_pos = (143,   9)  dist = 188.6
+80. start_pos = (226,  27)  goal_pos = (120, 189)  dist = 193.6
+81. start_pos = (216, 125)  goal_pos = ( 39,  42)  dist = 195.5
+82. start_pos = (206,   6)  goal_pos = ( 42, 223)  dist = 272.0
+83. start_pos = (160, 191)  goal_pos = ( 81,  23)  dist = 185.6
+84. start_pos = (237,  13)  goal_pos = (199, 224)  dist = 214.4
+85. start_pos = ( 30, 183)  goal_pos = (168,  46)  dist = 194.5
+86. start_pos = ( 88,  36)  goal_pos = (231, 165)  dist = 192.6
+87. start_pos = ( 80, 207)  goal_pos = (227,  74)  dist = 198.2
+88. start_pos = (154, 213)  goal_pos = ( 98,  36)  dist = 185.6
+89. start_pos = ( 95, 232)  goal_pos = (191,  49)  dist = 206.7
+90. start_pos = ( 76, 170)  goal_pos = (238,   8)  dist = 229.1
+91. start_pos = (226, 199)  goal_pos = ( 58, 110)  dist = 190.1
+92. start_pos = (222, 184)  goal_pos = ( 72,  71)  dist = 187.8
+93. start_pos = (228,  32)  goal_pos = (171, 206)  dist = 183.1
+94. start_pos = (161, 230)  goal_pos = ( 12,  88)  dist = 205.8
+95. start_pos = ( 35, 202)  goal_pos = (220, 176)  dist = 186.8
+96. start_pos = ( 43,  38)  goal_pos = (107, 238)  dist = 210.0
+97. start_pos = (  7, 195)  goal_pos = (207, 108)  dist = 218.1
+98. start_pos = ( 53, 144)  goal_pos = (227,  33)  dist = 206.4
+99. start_pos = ( 10, 210)  goal_pos = (208,  46)  dist = 257.1
+100. start_pos = (205, 127)  goal_pos = ( 38,  53)  dist = 182.7

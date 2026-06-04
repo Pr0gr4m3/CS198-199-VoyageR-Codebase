@@ -3,7 +3,7 @@
 A quadtree-based navigation system performing predictive, wave-aware A* planning on NetCDF VHM0 data. Includes code to reproduce experiments and export agent trajectories.
 
 ## Summary
-- Main simulation + visualization: Dynamic NC Wave + A star.py
+- Main simulation + visualization: main.py
 - Quadtree utilities & NetCDF loader: quadtree_waves.py
 - Batch runner: run_test_cases.py
 - Test generators: generate_test_cases.py, generate_passable_coords.py
